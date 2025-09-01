@@ -8,7 +8,7 @@
 
 </div>
 
-> 📚 Bu repository, profesyonel gelişimim sürecinde tamamladığım eğitimlerin ve aldığım sertifikaların koleksiyonunu içermektedir. Her sertifika, sürekli öğrenme ve kendimi geliştirme yolculuğumun bir parçasıdır.
+> 📚 Bu repository, profesyonel gelişimim sürecinde tamamladığım eğitimlerin ve aldığım sertifikaların koleksiyonunu içermektedir. Her sertifika, sürekli öğrenme ve kendimi geliştirmeye olan bağlılığımı temsil etmektedir.
 
 ---
 
@@ -27,9 +27,9 @@
 
 ### 🤖 Yapay Zeka & Veri Bilimi
 
-| Kurum                                                                                                                                                                                                                                                                                                                                                                             | Eğitim Adı                                               | Sertifika                               | Durum         |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------------------------------------- | ------------- |
-| ![Miuul](https://img.shields.io/badge/Miuul-FF6B6B?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMSA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDMgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K) | Introduction to Data Science and Artificial Intelligence | [📄 Görüntüle](docs/abdullah-aksoy.pdf) | ✅ Tamamlandı |
+| Kurum                                                                                                                                                                                             | Eğitim Adı | Sertifika | Durum |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------- | ----- |
+| ![Miuul](https://img.shields.io/badge/Miuul-FF6B6B?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9IiNmZjZiNmIiIHJ4PSI0Ii8+PHBhdGggZD0iTTEyIDIgQzYuNDggMiAyIDYuNDggMiAxMiBDMiAxNy41MiA2LjQ4IDIyIDEyIDIyIEMxNy41MiAyMiAyMiAxNy41MiAyMiAxMiBDMjIgNi40OCAxNy41MiAyIDEyIDIgWiBNMTIgNCBDMTYuNDEgNCAyMCA3LjU5IDIwIDEyIEMyMCAxNi40MSAxNi40MSAyMCAxMiAyMCBDNy41OSAyMCA0IDE2LjQxIDQgMTIgQzQgNy41OSA3LjU5IDQgMTIgNCBaIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==) | Veri Bilimi Bootcamp | [📄 Görüntüle](docs/veribilimi.pdf) | ✅ Tamamlandı |
 
 ### 💻 Yazılım Geliştirme
 
@@ -60,7 +60,10 @@
 
 ---
 
-
 <div align="center">
 
 **💡 Bu sertifikalar, sürekli öğrenme ve profesyonel gelişim yolculuğumun bir parçasıdır.**
+
+![Teknofest](docs/teknofest.jpeg)
+
+</div>
