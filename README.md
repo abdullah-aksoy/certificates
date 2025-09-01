@@ -4,8 +4,6 @@ Aşağıda, tamamladığım eğitimlerin ve aldığım sertifikaların bir liste
 
 ---
 
-## 🚀 Eğitimler & Sertifikalar
-
 - **Yapay Zeka ve Teknoloji Akademisi**
   - [Girişimcilik](https://github.com/abdullah-aksoy/certificates/blob/main/docs/01800779706071.pdf)
   - [Web Uygulamaları Geliştirme Eğitimi](https://github.com/abdullah-aksoy/certificates/blob/main/docs/37352087001693.pdf)
