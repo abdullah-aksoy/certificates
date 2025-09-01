@@ -7,21 +7,7 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-blue?style=for-the-badge)
 
 </div>
-
-> 📚 Bu repository, profesyonel gelişimim sürecinde tamamladığım eğitimlerin ve aldığım sertifikaların koleksiyonunu içermektedir. Her sertifika, sürekli öğrenme ve kendimi geliştirmeye olan bağlılığımı temsil etmektedir.
-
----
-
-## 📋 İçindekiler | Table of Contents
-
-- [🤖 Yapay Zeka & Veri Bilimi](#-yapay-zeka--veri-bilimi)
-- [💻 Yazılım Geliştirme](#-yazılım-geliştirme)
-- [🐍 Python Programlama](#-python-programlama)
-- [📊 Proje Yönetimi](#-proje-yönetimi)
-- [🔧 Geliştirici Araçları](#-geliştirici-araçları)
-- [📈 İstatistikler](#-i̇statistikler)
-
----
+<br>
 
 ## 🎯 Sertifika Kategorileri | Certificate Categories
 
@@ -62,7 +48,9 @@
 
 <div align="center">
 
-![Teknofest]
+<b>Teknofest<b>
+<br>
+<br>
 ![Teknofest](docs/teknofest.jpeg)
 
 </div>
