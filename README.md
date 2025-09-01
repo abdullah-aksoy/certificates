@@ -35,8 +35,8 @@
 
 | Kurum                                                                                               | Eğitim Adı                          | Sertifika                               | Durum         |
 | --------------------------------------------------------------------------------------------------- | ----------------------------------- | --------------------------------------- | ------------- |
-| ![YAZTA](https://img.shields.io/badge/YAZTA-4CAF50?style=flat-square&logo=academia&logoColor=white) | Girişimcilik                        | [📄 Görüntüle](docs/01800779706071.pdf) | ✅ Tamamlandı |
-| ![YAZTA](https://img.shields.io/badge/YAZTA-4CAF50?style=flat-square&logo=academia&logoColor=white) | Web Uygulamaları Geliştirme Eğitimi | [📄 Görüntüle](docs/37352087001693.pdf) | ✅ Tamamlandı |
+| ![Yapay Zeka ve Teknoloji Akademisi](https://img.shields.io/badge/Yapay Zeka ve Teknoloji Akademisi-4CAF50?style=flat-square&logo=academia&logoColor=white) | Girişimcilik                        | [📄 Görüntüle](docs/01800779706071.pdf) | ✅ Tamamlandı |
+| ![Yapay Zeka ve Teknoloji Akademisi](https://img.shields.io/badge/Yapay Zeka ve Teknoloji Akademisi-4CAF50?style=flat-square&logo=academia&logoColor=white) | Web Uygulamaları Geliştirme Eğitimi | [📄 Görüntüle](docs/37352087001693.pdf) | ✅ Tamamlandı |
 
 ### 🐍 Python Programlama
 
