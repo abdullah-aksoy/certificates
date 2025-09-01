@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Certificates](https://img.shields.io/badge/Certificates-8-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
+![Certificates](https://img.shields.io/badge/Certificates-9-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-blue?style=for-the-badge)
 
@@ -62,8 +62,7 @@
 
 <div align="center">
 
-**💡 Bu sertifikalar, sürekli öğrenme ve profesyonel gelişim yolculuğumun bir parçasıdır.**
-
+![Teknofest]
 ![Teknofest](docs/teknofest.jpeg)
 
 </div>
